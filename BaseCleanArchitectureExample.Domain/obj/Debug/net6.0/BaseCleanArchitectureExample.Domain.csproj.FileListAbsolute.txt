@@ -1,0 +1,12 @@
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\bin\Debug\net6.0\BaseCleanArchitectureExample.Domain.deps.json
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\bin\Debug\net6.0\BaseCleanArchitectureExample.Domain.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\bin\Debug\net6.0\ref\BaseCleanArchitectureExample.Domain.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\bin\Debug\net6.0\BaseCleanArchitectureExample.Domain.pdb
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\ref\BaseCleanArchitectureExample.Domain.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Domain\obj\Debug\net6.0\BaseCleanArchitectureExample.Domain.pdb

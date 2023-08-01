@@ -1,0 +1,15 @@
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\BaseCleanArchitectureExample.Application.deps.json
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\BaseCleanArchitectureExample.Application.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\ref\BaseCleanArchitectureExample.Application.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\BaseCleanArchitectureExample.Application.pdb
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\BaseCleanArchitectureExample.Domain.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\bin\Debug\net6.0\BaseCleanArchitectureExample.Domain.pdb
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.csproj.CopyComplete
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\ref\BaseCleanArchitectureExample.Application.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Application\obj\Debug\net6.0\BaseCleanArchitectureExample.Application.pdb

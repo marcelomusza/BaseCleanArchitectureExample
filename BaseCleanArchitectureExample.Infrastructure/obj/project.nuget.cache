@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVlzHnqnAV6anXG9BWmNcq8oQ9amnZP0WOaID5u1Q6hrICtMJ1WXok4zMUaM00nKsAASJwxfz7m/RJS7fd0l4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marce\\source\\repos\\Training\\BaseCleanArchitectureExample\\BaseCleanArchitectureExample.Infrastructure\\BaseCleanArchitectureExample.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marce\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\bin\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.deps.json
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\bin\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\bin\Debug\net6.0\ref\BaseCleanArchitectureExample.Infrastructure.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\bin\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.pdb
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\ref\BaseCleanArchitectureExample.Infrastructure.dll
+C:\Users\Marce\source\repos\Training\BaseCleanArchitectureExample.Domain\BaseCleanArchitectureExample.Infrastructure\obj\Debug\net6.0\BaseCleanArchitectureExample.Infrastructure.pdb
