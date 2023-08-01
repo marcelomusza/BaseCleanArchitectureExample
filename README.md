@@ -14,6 +14,14 @@ The solution is organized into the following main projects:
 - **API**: This is the entry point of the application. It depends on both the Application and Infrastructure layers but not directly on the Domain layer.
 - **Presentation**: This is the frontend of the application. This layer could be removed completely if you are developing the FE on another solution.
 
+## Basic Features
+
+The solution presents a few basic additions, which are displayed as follows:
+- **Dependency Injection**: A DependencyInjection class to represent the service registrations for each layer, to be used on program.cs later on during the project setup
+- **MediatR**: MediatR library added
+- **FluentValidation**: FluentValidation library added
+- **Serilog**: Serilog library added and configured properly
+
 ## Getting Started
 
 ### Installation
